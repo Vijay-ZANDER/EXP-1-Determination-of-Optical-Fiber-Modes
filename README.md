@@ -1,20 +1,15 @@
-
 # Exp 1 Mode Characteristics of Fiber Optic Cable
 
 ## 🎯 AIM
 To study the mode characteristics of fiber optic cable and observe the lower order Linearly Polarized (LP) modes.
 
----
-
-## 🧰 EQUIPMENTS REQUIRED
+## 🧰 1
+EQUIPMENTS REQUIRED
 1. LASER Source (633 nm – 1mW)  
 2. Source to Fiber Coupler  
 3. Single Mode Fiber  
 4. Fiber Holding Stand  
 5. Opaque Screen  
-
----
-
 
 ## 📚 THEORY
 
@@ -31,8 +26,6 @@ A Multimode fiber, V-number is slightly greater than 2.045 but the number of all
 When V < 2.045, then only a single mode may propagate in the fiber waveguide. This mode is HE11 mode or LP01 – Linearly Polarized mode.
 When V > 2.045, other modes may propagate, when V is slightly greater than 2.045 i.e. V = 4.91 then 4 Linearly Polarized modes will propagate through fiber.
 
----
-
 ## 🧪 PROCEDURE
 
 1.1.	Keep optical bread board onto original and flat table surface, so that it will not toggle.
@@ -48,12 +41,7 @@ coupling lens assembly by adjusting the vertical and horizontal travel arrangeme
 9.	Observe the bright round shape circular spot with laser speckle pattern on to the screen. Multimode pattern can be refined by screws provided with laser-fiber coupler. Slightly adjusting or moving the screws on the laser mount, view the change in pattern of this multimode spot. After observing the multimode pattern, change multimode fiber optic patch cord with single mode fiber patch cord.
 10.	For single mode patch cord, the blur pattern of the various single mode patterns will appear on the screen. That is, single circular two lobes, three lobes and four lobes patterns can be very well observed by slightly adjusting the Allen screws of the laser-fiber coupler.
 
----
-
-
-## 📊 OBSERVATION AND CALCULATION
-
-- 
+## 📊 OBSERVATION AND CALCULATION 
 Parameter of given fiber are,
 A = 4.5μm (core radius), N.A = 0.11, λ = 633nm V = 2 π x A x N.A / λ = 4.91
 From fig. shows only 4 LP modes propagates.
@@ -61,6 +49,7 @@ Total number of modes = V2 / 2 = 4.912 / 2
 <img width="932" height="1015" alt="image" src="https://github.com/user-attachments/assets/09f47716-8ad0-42f6-a2d1-a9afa7590b4f" />
 
 
----
-## Tabulation
+![WhatsApp Image 2026-03-13 at 2 11 57 PM](https://github.com/user-attachments/assets/ec339c73-209e-4f28-9dd7-bc08a24e66e4)
+
 ## Result
+The mode characteristics and lower order Linearly Polarized (LP) modes were studied successfully.
